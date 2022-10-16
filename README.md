@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris.
-- 👀 I’m interested in programming, automation, arduinos, cybersecurity, and more!
-- 🌱 I’m currently learning Python and Arduino.
+- 👀 I’m interested in programming, automation, devops, arduinos, cybersecurity, and more!
+- 🌱 I’m currently improving my Python and Arduino skills.
 - 📫 You can reach me on linkedin: https://www.linkedin.com/in/christofer-astuto/
 
 <!---
